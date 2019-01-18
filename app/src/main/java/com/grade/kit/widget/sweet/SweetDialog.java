@@ -19,7 +19,7 @@ import com.grade.kit.widget.sweet.widget.SweetInterface;
 import com.grade.kit.widget.sweet.widget.SweetType;
 
 /**
- * LoadingDialog : 加载框
+ * SweetDialog :
  * <p>
  * </> Created by ylwei on 2018/3/28.
  */
